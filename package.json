@@ -1,0 +1,12 @@
+{
+  "name": "generator-node-travis",
+  "version": "0.1.0",
+  "description": "Generate travis YML for node",
+  "files": ["app"],
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "dependencies": {
+    "yeoman-generator": "^0.20.1"
+  }
+}
